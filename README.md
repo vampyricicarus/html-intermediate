@@ -1,0 +1,1 @@
+I used this project to practice using the features and semantics of html5
